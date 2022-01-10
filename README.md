@@ -12,3 +12,5 @@ for gnu-linux/mac users add this as a function for user shell script check info.
 add line "source /path/to/userscripts.sh" to .bashrc or .zshrc file 
 ##any suggestions are welcome 
 create an issue if you have any other quires 
+## any help accepted 
+thanks 
